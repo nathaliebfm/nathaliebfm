@@ -2,7 +2,7 @@
 
 ----
 
-- 👋 Hi, I’m @nathaliebfm a 26 years old lawyer that decided to migrate to tech.
+- 👋 Hi, I’m @nathaliebfm a 26 years old lawyer that decided to transition to tech.
 - 💻 I’m currently a Generation Brasil student (Java Full-Stack), learning everything I need to know to become a junior developer.
 
 <!---
