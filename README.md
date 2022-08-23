@@ -28,4 +28,4 @@ You can click the Preview link to take a look at your changes.
 <div> 
   <a href="https://www.instagram.com/nathaliebfm/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  	<a href = "mailto:3natibfm@hotmail.com"><img src="https://img.shields.io/badge/-email-%23333?style=for-the-badge&logo=Gmail&logoColor=white" target="_blank"></a>
-  <a href="www.linkedin.com/in/nathalie-brasil/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="www.linkedin.com/nathalie-brasil/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
