@@ -2,8 +2,7 @@
 
 ----
 
-- 👋 Hi, I’m @nathaliebfm a 26 years old lawyer that decided to transition to tech.
-- 💻 I’m currently a Generation Brasil student (Java Full-Stack), learning everything I need to know to become a junior developer.
+- 👋 Hi, I’m @nathaliebfm a 26 years Junior Software Engineer working for a big three consulting firm.
 
 <!---
 nathaliebfm/nathaliebfm is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
