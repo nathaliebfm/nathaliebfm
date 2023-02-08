@@ -2,7 +2,7 @@
 
 ----
 
-- 👋 Hi, I’m @nathaliebfm a 26 y/o Junior Software Engineer working for a big three consulting firm.
+- 👋 Hi, I’m @nathaliebfm a 26 y/o Junior Software Engineer working for a <strong>big three</strong> management consulting firm.
 
 <!---
 nathaliebfm/nathaliebfm is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
