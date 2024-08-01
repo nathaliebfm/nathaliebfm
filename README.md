@@ -2,7 +2,7 @@
 
 ----
 
-- 👋 Hi, I’m @nathaliebfm a Junior Software Engineer working for a <strong>big three</strong> management consulting firm.
+- 👋 Hi, I’m @nathaliebfm a Software Engineer working for a <strong>big three</strong> management consulting firm.
 
 <!---
 nathaliebfm/nathaliebfm is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
